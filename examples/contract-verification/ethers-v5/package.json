@@ -49,7 +49,7 @@
     "@openzeppelin/hardhat-upgrades": "^2.3.3",
     "@openzeppelin/contracts": "^5.0.2",
     "@openzeppelin/contracts-upgradeable": "^5.0.2",
-    "@ethersproject/providers": "^5.7.2",
+    "@ethersproject/providers": "^5.8.0",
     "@nomicfoundation/hardhat-chai-matchers": "^1.0.0",
     "@nomicfoundation/hardhat-network-helpers": "^1.0.0",
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
