@@ -1,5 +1,23 @@
 # @tenderly/hardhat-tenderly
 
+## 2.5.2
+
+### Patch Changes
+
+- [#270](https://github.com/Tenderly/hardhat-tenderly/pull/270) [`cf90f18d2ad7fff52ac1321a8d953ea7f3967a2f`](https://github.com/Tenderly/hardhat-tenderly/commit/cf90f18d2ad7fff52ac1321a8d953ea7f3967a2f) Thanks [@ElaNej](https://github.com/ElaNej)! - Add README
+
+## 2.5.1
+
+### Patch Changes
+
+- [#261](https://github.com/Tenderly/hardhat-tenderly/pull/261) [`b4160f919eeb10bcf0f35200b0256ee31e108cf8`](https://github.com/Tenderly/hardhat-tenderly/commit/b4160f919eeb10bcf0f35200b0256ee31e108cf8) Thanks [@ElaNej](https://github.com/ElaNej)! - Update README
+
+## 2.5.0
+
+### Minor Changes
+
+- Implemented private and public ABI verification for Lens Testnet
+
 ## 2.4.0
 
 ### Minor Changes
