@@ -18,7 +18,7 @@ jobs:
     steps:
       - checkout
       - run: |
-          # echo Hello, World!
+          echo "No operation"
 
 workflows:
   my-custom-workflow:
