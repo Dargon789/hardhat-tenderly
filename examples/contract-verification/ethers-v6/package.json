@@ -40,7 +40,7 @@
     "@types/node": "^20.5.7",
     "@typescript-eslint/eslint-plugin": "^5.36.1",
     "@typescript-eslint/parser": "^5.36.1",
-    "eslint": "^8.23.0",
+    "eslint": "^9.0.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-prettier": "^4.2.1",
@@ -51,7 +51,7 @@
   "dependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.0",
     "@nomicfoundation/hardhat-ethers": "^3.0.0",
-    "@nomicfoundation/hardhat-network-helpers": "^1.0.0",
+    "@nomicfoundation/hardhat-network-helpers": "^3.0.0",
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
     "@nomicfoundation/hardhat-verify": "^2.0.0",
     "@openzeppelin/contracts": "^5.0.2",
@@ -68,7 +68,7 @@
     "ethers": "^6.8.1",
     "global": "^4.4.0",
     "global-tunnel-ng": "^2.7.1",
-    "hardhat": "^2.23.0",
+    "hardhat": "^3.0.0",
     "hardhat-gas-reporter": "^2.0.0",
     "solidity-coverage": "^0.8.1",
     "typechain": "^8.3.0"
