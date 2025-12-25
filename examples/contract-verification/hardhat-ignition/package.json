@@ -8,14 +8,14 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
     "@tenderly/hardhat-tenderly": "^2.3.0",
-    "hardhat": "^2.23.0",
+    "hardhat": "^3.0.0",
     "dotenv": "^16.4.5"
   },
   "dependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.0",
     "@nomicfoundation/hardhat-ethers": "^3.0.0",
     "@nomicfoundation/hardhat-ignition-ethers": "^0.15.5",
-    "@nomicfoundation/hardhat-network-helpers": "^1.0.0",
+    "@nomicfoundation/hardhat-network-helpers": "^3.0.0",
     "@typechain/ethers-v6": "^0.5.0",
     "@typechain/hardhat": "^9.0.0",
     "@types/chai": "^4.2.0",
