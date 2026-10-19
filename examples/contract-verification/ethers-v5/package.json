@@ -62,7 +62,7 @@
     "@types/mocha": ">=9.1.0",
     "chai": "^4.2.0",
     "dotenv": "^16.0.1",
-    "ethers": "^5.7.2",
+    "ethers": "^6.13.5",
     "global": "^4.4.0",
     "global-tunnel-ng": "^2.7.1",
     "hardhat": "^2.19.0",
