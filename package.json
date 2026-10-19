@@ -30,6 +30,6 @@
     },
     "dependencies": {
         "ethers": "^6.8.1",
-        "hardhat": "^2.19.0"
+        "hardhat": "^2.23.0"
     }
 }
